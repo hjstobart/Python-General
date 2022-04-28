@@ -4,6 +4,7 @@ A suite of general Python scripts.
 ## Contents:
 - `2x2 Matrix Inversion` (_Jupyter Notebook_ & _.py_ file)
 - `Factors` (_.py_ file)
+- `Fibonacci` (_.py_ file)
 
 ## Note:
 Dear reader,
