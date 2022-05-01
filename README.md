@@ -6,6 +6,7 @@ A suite of general Python scripts.
 - `Factors` (_.py_ file)
 - `Fibonacci` (_.py_ file)
 - `Lowest Common Multiple` (_.py_ file)
+- `Prime Numbers` (_.py_ file)
 
 ## Note:
 Dear reader,
